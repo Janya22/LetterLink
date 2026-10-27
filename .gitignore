@@ -1,0 +1,10 @@
+# OS files
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
